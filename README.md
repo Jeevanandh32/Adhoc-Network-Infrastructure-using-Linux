@@ -50,7 +50,7 @@ VPN: Confirm secure connections using ipsec status.
 Diagnostics: Analyze network logs using Wireshark for performance and intrusion detection.
 Security: Review ARP spoofing impact and logs to strengthen network defenses.
 
-Adhoc-Network-Infrastructure-Linux/
+## Adhoc-Network-Infrastructure-Linux/
 │
 ├── README.md                  # Project overview and usage details
 ├── scripts/                   # Automation scripts for various tasks
