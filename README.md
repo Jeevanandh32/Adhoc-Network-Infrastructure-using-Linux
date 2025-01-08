@@ -51,6 +51,7 @@ Diagnostics: Analyze network logs using Wireshark for performance and intrusion 
 Security: Review ARP spoofing impact and logs to strengthen network defenses.
 
 ## Adhoc-Network-Infrastructure-Linux/
+```
 │
 ├── README.md                  # Project overview and usage details
 ├── scripts/                   # Automation scripts for various tasks
