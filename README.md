@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates the creation of an ad-hoc network infrastructure using Linux, integrating DNS server configuration, automated backup solutions, and VPN security measures. The project highlights efficient network management and security in a dynamic Linux-based environment.
 
+![image](https://github.com/user-attachments/assets/d31a5c42-bf32-4869-90f3-18853496d819)
+
+
 ## Features
 
 - DNS Server Configuration: Set up Bind9 DNS server with IPv4/IPv6 integration, forward and reverse domain setups, and master-slave synchronization.
